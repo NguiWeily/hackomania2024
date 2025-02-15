@@ -6,4 +6,4 @@ Collaborators:
 - Kit Siew : Prompt engineer
 - Calvin Wijaya : UI connection to Vertex AI API
 - JC Tan : Control room mockup/dashboard
-- JW : UI engineer
+- Weily : UI
